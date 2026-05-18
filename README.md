@@ -64,6 +64,22 @@ Recommends: Buy / Sell / Hold
 
 ## Author
 
-**Richardy Lobo' Sapan**
-- GitHub: [@richardy-lobo-sapan](https://github.com/richardy-lobo-sapan)
-- LinkedIn: [richardylobosapan](https://www.linkedin.com/in/richardylobosapan/)
+## Team
+
+| Name | Student ID |
+|------|-----------|
+| Anatasya Oktaviani Handriati | 1906296186 |
+| Ashley Kainama | 1906352073 |
+| Christantina Ethan Agustya | 1906351921 |
+| Halwatunnisa | 1906373960 |
+| Kezya Samantha Sherryn | 1906296280 |
+| Marsha Putri Mahira | 1906296293 |
+| M. Shiqo Filla | 1906352016 |
+| Muhammad Ichsanudin | 1906351940 |
+| Muhammad Reza Maullanna | 1906373916 |
+| Prasetya Nugroho Hutomo | 1906307353 |
+| **Richardy Lobo' Sapan** | **1906373954** |
+
+**Supervisor:** Dr. Hengki Tasman S.Si, M.Si.
+
+**Institution:** Universitas Indonesia
